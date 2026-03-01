@@ -51,9 +51,9 @@ I'm documenting my 6-month transformation from cybersecurity student to job-read
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Add your URL here]
-- **TryHackMe:** [Add your profile URL]
-- **LetsDefend:** [Add your profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/karthi-keyan-9042862bb/
+- **TryHackMe:** https://tryhackme.com/p/Karthikeyan13
+- **LetsDefend:** https://app.letsdefend.io/user/Karthi658
 
 ## 📝 Daily Updates
 
