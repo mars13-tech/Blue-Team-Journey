@@ -26,7 +26,7 @@ Cybersecurity means protecting computers, networks, and data from hackers and at
 - Defenders (protectors)
 
 ### What does a SOC Analyst do?
-- Person who watches for attacks and stops them
+- A SOC analyst monitors, detects, investigates, and responds to cyber attacks.
 
 ## Tools Setup
 - VirtualBox: ✅ Installed
