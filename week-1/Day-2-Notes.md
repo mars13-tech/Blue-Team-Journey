@@ -11,7 +11,6 @@
 - [x] Practiced 15+ Linux commands in Kali terminal
 - [x] Created Linux command cheat sheet
 - [x] Updated GitHub repository
-- [x] LinkedIn post published
 
 ---
 
