@@ -69,4 +69,4 @@
 | `/tmp/` | Temporary files | Malware often hides here |
 | `/var/` | Variable data | Logs, caches, databases |
 
-[Continue with more commands you learned]
+[Continue]
